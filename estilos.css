@@ -1,0 +1,28 @@
+h1 { 
+    color: rgb(78, 72, 72);
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(110, 25, 19);
+    padding: 10px;
+}
+pre {
+    color: rgb(54, 48, 48);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+body {
+    background-color: rgb(252, 251, 251);
+
+}
+a:link{
+    color:rgb(247, 240, 255)
+}
+a:visited{
+    color: #000000;
+}
+a:hover{
+    color: azure;
+}
+a:active{
+    color:rgb(255, 250, 240)
+}
