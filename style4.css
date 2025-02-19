@@ -1,8 +1,8 @@
 body {
     text-align: center;
-    background: linear-gradient(to right, slateblue, lightblue);
+    background: linear-gradient(to right, rgb(7, 7, 7), rgb(60, 63, 66));
     font-family: 'Trebuchet MS';
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   h2 {
@@ -10,9 +10,9 @@ body {
   }
   
   a {
-    background-color: white;
+    background-color: rgb(112, 0, 0);
     font-size: 20px;
-    color: slateblue;
+    color: rgb(3, 3, 3);
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
